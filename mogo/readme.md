@@ -9,5 +9,4 @@ Utilizei as seguintes ferramentas para a montagem do site:
 
 O site é responsivo, se adapta a vários tamanhos de tela.
 
-Este é o layout:
-![](MoGo_FREE_Template_by_Laaqiq.jpg)
+Este é o [layout](MoGo_FREE_Template_by_Laaqiq.jpg), clique para visualizar.
